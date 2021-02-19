@@ -23,7 +23,7 @@ export default {
             this.isReversed = !this.isReversed;
         }
     },
-    data: function(){
+    data: function() {
         return {
             isReversed: false,
             speed: ['Off','Low','Mid','High'],
